@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sphinx">The sphinx of the most important tourist places in Cairo Egypt, a statue of a mythical creature with the body of a lion and a human head, believed to be ancient Egyptians built during the reign of Pharaoh Khafra, located on the Giza plateau on the West Bank of the Nile in Giza, Cairo
+</string>
+    <string name="Pharonic_village">Pharonic village is one of the best tourist places in Cairo, Egypt. It is an ideal place to learn about Egyptian history, the civilization of the Pharaohs and the discovery of the life styles that prevailed in those ages. The pharaonic village simulates ancient villages of the pharaohs that were present for thousands of years, where they can identify their contents, monuments, buildings and even their characters
+</string>
+    <string name="Khan_el">One of the most important tourist areas in Cairo is khan el khalili. For both tourists and Egyptians, Khan El Khalili market includes exhibits of handicrafts such as brass, woodwork and other souvenirs and souvenirs that attract tourists to buy them as a souvenir of their visit to the city. The market also includes many famous bookstores, We talk about tourism in Cairo
+</string>
+    <string name="cairo_tower">The Cairo Tower offers you a magnificent view of the city of Cairo, Egypt with its features and its life, up to 187 meters, which is higher than the largest pyramid in Giza. The tower is located in the heart of Cairo on Zamalek Island in the Nile River. It is located on a rotating platform which makes it rotary to provide visitors with a comprehensive view of the tourist areas of Cairo
+</string>
+    <string name="Abdeen">Abdeen Palace is one of the most famous and famous tourist places in Cairo. It is undoubtedly a magnificent architectural masterpiece built during the reign of Muhammad Ali Pasha\'s family to Egypt, where it was the seat of government from 1872 until 1952. This palace witnessed important events From the era of the Queen until the revolution of July 1952, which was the beginning of the emergence of modern Cairo. The palace was converted into a museum frequented by thousands of tourists when tourism in Cairo
+</string>
+    <string name="opera">The Cairo Opera House, or the National Cultural Center, is one of the best tourist places in Cairo. It opened in 1988 and is located in its new building, which was built as a grant from the Japanese government to its Egyptian counterpart on the island\'s land in Cairo. The opera building contains many cultural and entertainment centers Museums and works of art do not miss his visit when tourism in Cairo
+</string>
+    <string name="salah">One of the most beautiful medieval war castles, the citadel of Salah al-Din al ayoubi citadel is one of the most important tourist areas in Cairo in the citadel district on the outskirts of the city. Surrounding this castle are many ancient mosques dating back to the Fatimid state, such as Ibn Tulun Mosque and Sultan Hassan Mosque
+</string>
+
+
+    <string name="egypt">The Egyptian Museum is one of the most famous museums in the world. The museum is located in Tahrir Square and consists of two floors containing more than 160,000 rare relics, including mummies belonging to the Pharaohs of Egypt. The museum is organized according to the history of the exhibits, where on the first floor the large-sized monuments and the second floor featuring royal mummies, manuscripts, statues and others
+</string>
+    <string name="om">Umm Kulthum Museum in Cairo umm kulthum museum is one of the most important museums in Egypt. It has an area of ​​250 square meters. It is one of the buildings in the Mansrieli Palace. It contains many of Umm Kulthum\'s possessions such as her clothes, necklaces and souvenirs. We recommend you visit the Umm Kulthum Museum, one of the best museums in Cairo
+</string>
+    <string name="coptic">For the Coptic Museum in Cairo, this museum was opened in ancient Egypt within the boundaries of the fortress of Babylon, whose remains are located behind the museum building. It is considered to be one of the tourist areas in Cairo. It has many additions during the era of the Roman empires. The Coptic Museum is the largest museum in the world for the monuments of Egypt from the Coptic period
+</string>
+    <string name="mummification">The mummification museum is located on the Corniche of the Nile, north of the Luxor Temple. It has ancient Egyptian phonetic art techniques applied by many ancient Egyptians to many creatures, not just human beings. In this unique museum there are mummies for cats, fish and crocodiles. the operation
+</string>
+    <string name="Alex_museum">The museum is a former palace of one of the city\'s richest merchants, Asad Basile, which he built in the style of Italian architecture
+The museum exhibits about 1800 artifacts ranging from the Pharaonic era to the Ptolemaic era in which Alexandria flourished
+</string>
+
+
+    <string name="hotel1">Giza is one of the largest and most beautiful tourist cities in Egypt. It is one of the largest tourist attractions in the world because of its unique archaeological sites, the most important of which are the pyramids of Giza and the Sphinx, and we recommend to stay in Giza area for those interested in the great historical monuments.
+</string>
+    <string name="hotel2">Haram Street is one of the most famous tourist streets of Egypt. It is the road leading to the three pyramids of Giza. It includes many cafes, shopping centers and a number of the most important hotels in Cairo.
+
+We recommend staying at a pyramid street hotel for shopping lovers and visiting tourist attractions such as Giza Pyramids and others
+</string>
+    <string name="hotel3">Nasr City in Cairo is one of the most famous tourist places and places, with the best shopping, cafes and residential buildings
+</string>
+    <string name="hotel4">Tourism in the capital is not only based on the finest hotels in Cairo, but also includes the most beautiful resorts and its resorts. We recommend swimming lovers, recreational water activities and sea views to stay in a resort in Cairo.
+</string>
+    <string name="hotel5">Cairo has hotels with a magnificent view of the famous Blue Nile River. The Nile is considered to be one of the most important elements of life in ancient Egypt, and lovers of attractive views are advised to stay in one of Cairo\'s best hotels overlooking the Nile.
+</string>
+    <string name="hotel6">The Zamalek neighborhood is considered one of the finest neighborhoods in Cairo and a popular attraction for lovers of sophistication and luxury. It includes many shopping centers, cafes and tourist attractions, most notably the Cairo Tower, the Egyptian Museum and the Opera House.
+
+We recommend shopping lovers, attractions, and a lively atmosphere.
+</string>
+    <string name="hotel7">Cairo city center includes many tourist places, business centers and ministries, in addition to many transportation lines. The city center is the area between Nasr City and the Nile.
+
+Booking Cairo hotels in the city center is suitable for both business and leisure travelers.
+</string>
+    <string name="sphinx_name">sphinx</string>
+    <string name="Abdeen_palace">Abdeen palace</string>
+    <string name="khan_el_khalili">khan el khalili</string>
+    <string name="pharonic_village">pharonic village</string>
+    <string name="cairo_opera_house">cairo opera house</string>
+    <string name="cairo_tower_name">cairo tower</string>
+    <string name="salah_el_din">salah el din el ayouby citadel</string>
+
+    <string name="cairo">Cairo</string>
+    <string name="giza">Giza</string>
+    <string name="zamalek">Zamalek</string>
+    <string name="alex">Alex</string>
+
+    <string name="public_places">public places</string>
+    <string name="museums">museums</string>
+    <string name="hotels">hotels</string>
+    <string name="first">the first</string>
+
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="description">description</string>
+    <string name="imageResourse">imageResourse</string>
+
+    <string name="cairo_apartments">cairo apartments</string>
+    <string name="downtown_hotels">downtown hotels</string>
+    <string name="cairo_hotels_giza">cairo hotels giza</string>
+    <string name="pyramids_street">pyramids street</string>
+    <string name="resorts_hotels">resorts hotels</string>
+    <string name="zamalek_hotels">zamalek hotels</string>
+    <string name="three_stars_hotels">three stars hotels</string>
+
+    <string name="coptic_museum">coptic museum</string>
+    <string name="egyptian_museum">egyptian museum</string>
+    <string name="umm_kulthum_museum">umm kulthum museum</string>
+    <string name="mummification_museum">mummification museum</string>
+    <string name="Alex_museum_name">Alex museum</string>
+
+    <string name="egy">Egypt</string>
+    <string name="about">this tour guide about : </string>
+    <string name="egyptdes"> Egypt or officially the Arab Republic of Egypt, the drop of the Qatari saying, drop reading to read the drawing of the drawing of the Rock of the population and the most Arab inhabitants. The Arab Republic of Egypt has long coasts on Bahrain and the Red Sea
+</string>
+</resources>
